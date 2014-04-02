@@ -1,3 +1,7 @@
+---------------------------------------------
+-- Coloured Stone Bricks Mod by CraigyDavi --
+---------------------------------------------
+
 local COLOURS = {
 		"Black", 
 		"Cyan", 
