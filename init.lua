@@ -1,7 +1,3 @@
----------------------------------------------
--- Coloured Stone Bricks Mod by CraigyDavi --
----------------------------------------------
-
 local COLOURS = {
 		"Black",
 		"Cyan",
@@ -58,7 +54,7 @@ for number = 1, 15 do
 		}
 	})
 
-    -- Stairs
+    -- Support for stairsplus mod
 
     stairsplus:register_all("colouredstonebricks", colour2, "colouredstonebricks:"..colour2, {
         description = colour.." Stone Brick",
@@ -74,5 +70,3 @@ end
 minetest.register_alias("dye:dark_blue","dye:blue")
 minetest.register_alias("dye:dark_pink","dye:magenta")
 minetest.register_alias("dye:purple","dye:violet")
-
-print ("Coloured Stone Bricks [colouredstonebricks] has loaded!")

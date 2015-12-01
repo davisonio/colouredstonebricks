@@ -32,6 +32,9 @@ Decorative blocks which would look nice on any building or creation.
 ## Todo
 - [ ] add luacheck tests
 - [ ] add contributing.md
+- [ ] don't use alias rubbish
+- [ ] see dyes example for list
+- [ ] fix stairsplus support
 
 ## Authors
 
