@@ -25,6 +25,7 @@ Decorative blocks which would look nice on any building or creation.
 ## Installation
 
 **Dependancies:** default, dye
+
 **Supports:** stairsplus
 
 [Download](https://github.com/davisonio/colouredstonebricks/archive/master.zip) & unzip the mod, then rename it to "colouredstonebricks" and move the folder into your minetest/mods folder.
