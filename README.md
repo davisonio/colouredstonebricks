@@ -1,45 +1,41 @@
-# Coloured stone bricks
+# [Coloured stone bricks](https://davison.io/minetest/colouredstonebricks) :video_game: [![](https://img.shields.io/travis/davisonio/colouredstonebricks.svg?style=flat-square)](https://travis-ci.org/davisonio/colouredstonebricks)
 
 > Coloured stone bricks mod for [Minetest](http://www.minetest.net)
 
 <p align="center">
-<b><a href="#installation">Installation</a></b>
+<b><a href="#install">Install</a></b>
 ·
 <b><a href="#authors">Authors</a></b>
 ·
-<b><a href="#credits">Credits</a></b>
-</p>
-
-<p align="center">
-<a href="https://travis-ci.org/davisonio/colouredstonebricks"><img src="https://img.shields.io/travis/davisonio/colouredstonebricks.svg?style=flat-square"/></a>
+<b><a href="#license--credits">License & Credits</a></b>
 </p>
 
 Decorative blocks which would look nice on any building or creation.
 
 - [Minetest Forum Topic](https://forum.minetest.net/viewtopic.php?id=8784)
 
-![Screenshot](https://raw.githubusercontent.com/wiki/davisonio/colouredstonebricks/img/1.png)
+![](https://davison.io/assets/img/minetest-colouredstonebricks-screenshot.png)
 
-## Installation
+## Install
 
-**Dependancies:** default, dye
+*Dependencies:* default, dye
 
-**Supports:** stairsplus
+*Supports:* stairsplus
 
-[Download](https://github.com/davisonio/colouredstonebricks/archive/master.zip) & unzip the mod, then rename it to "colouredstonebricks" and move the folder into your minetest/mods folder.
+[Download](https://github.com/davisonio/colouredstonebricks/archive/master.zip) & unzip the mod, rename it to "colouredstonebricks" and move it into your `minetest/mods` folder.
 
 ## Authors
 
-**[Craig Davison](http://davison.io)**
+**[Craig Davison](https://davison.io)**
 
-[![GitHub followers](https://img.shields.io/github/followers/davisonio.svg?style=social&label=Follow%20davisonio)](https://github.com/davisonio) [![Twitter followers](https://img.shields.io/twitter/follow/davisonio.svg?style=social)](https://twitter.com/davisonio)
+[![](https://img.shields.io/github/followers/davisonio.svg?style=social&label=Follow%20davisonio)](https://github.com/davisonio) [![](https://img.shields.io/twitter/follow/davisonio.svg?style=social)](https://twitter.com/davisonio)
 
-With many thanks to the [contributors](https://github.com/davisonio/colouredstonebricks/graphs/contributors) :clap:
+With many thanks to the [contributors](https://github.com/davisonio/colouredstonebricks/graphs/contributors). :clap:
 
-For details on how to help, see the [Contributing Guidelines](https://github.com/davisonio/colouredstonebricks/blob/master/CONTRIBUTING.md).
+**Contributions are welcome!** Check out the [Contributing Guidelines](https://github.com/davisonio/colouredstonebricks/blob/master/CONTRIBUTING.md). :raised_hands:
 
-## Credits
+## License & Credits
 
 Unless otherwise stated:
 
-- Copyright © 2014+ [Craig Davison](http://davison.io). Released under the [WTFPL](http://www.wtfpl.net/txt/copying/).
+- Copyright © 2014+ [Craig Davison](https://davison.io). Released under the [WTFPL](http://www.wtfpl.net/txt/copying/).
