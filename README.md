@@ -1,4 +1,4 @@
-# [Coloured stone bricks](https://davison.io/minetest/colouredstonebricks) :video_game: [![](https://img.shields.io/travis/davisonio/colouredstonebricks.svg?style=flat-square)](https://travis-ci.org/davisonio/colouredstonebricks)
+# [Coloured stone bricks](https://davison.io/minetest/colouredstonebricks) :video_game: [![](https://img.shields.io/travis/davisonio/colouredstonebricks.svg?style=flat-square)](https://travis-ci.org/davisonio/colouredstonebricks) [![](https://img.shields.io/gitter/room/davisonio/colouredstonebricks.svg)](https://gitter.im/davisonio/colouredstonebricks)
 
 > Coloured stone bricks mod for [Minetest](http://www.minetest.net)
 
@@ -18,9 +18,15 @@ Decorative blocks which would look nice on any building or creation.
 
 ## Install
 
-*Dependencies:* default, dye
+###### Requirements
 
-*Supports:* stairsplus
+- [Minetest](http://www.minetest.net) >= 0.4.10
+- default
+- dye
+
+###### Supports
+
+- stairsplus
 
 [Download](https://github.com/davisonio/colouredstonebricks/archive/master.zip) & unzip the mod, rename it to "colouredstonebricks" and move it into your `minetest/mods` folder.
 
