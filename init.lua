@@ -25,7 +25,7 @@ for _, row in ipairs(colours) do
 		description = description.." Stone Brick",
 		tiles = {"colouredstonebricks_"..name..".png"},
 		groups = {cracky=3},
-        sounds = default.node_sound_defaults(),
+        sounds = default.node_sound_stone_defaults(),
 	})
 
 	minetest.register_craft({
@@ -42,7 +42,7 @@ for _, row in ipairs(colours) do
 	        description = description.." Stone Brick",
 			tiles = {"colouredstonebricks_"..name..".png"},
 			groups = {cracky=3},
-			sounds = default.node_sound_defaults(),
+			sounds = default.node_sound_stone_defaults(),
 	        sunlight_propagates = true,
 	    })
 	end
